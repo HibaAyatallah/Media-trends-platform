@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Un bon article",
+        "author": "Jean Dupont",
+        "publication_date": "2026-05-14",
+        "category": "Tech",
+        "content": "Ceci est un contenu suffisamment long pour passer le test des 100 caractères. Voici du remplissage pour atteindre ce quota. Je pense que cela suffira amplement pour que la condition ne se déclenche pas.",
+        "source": "Hespress",
+        "url": "http://hespress.com/test1"
+    },
+    {
+        "title": "",
+        "author": "Alice",
+        "publication_date": null,
+        "category": "News",
+        "content": "Trop court",
+        "source": "",
+        "url": ""
+    },
+    {
+        "title": "Doublon d'URL",
+        "author": "Bob",
+        "publication_date": "2026-05-14",
+        "category": "Sport",
+        "content": "Encore un contenu suffisamment long pour passer le test des 100 caractères. Voici du remplissage pour atteindre ce quota. Je pense que cela suffira amplement pour que la condition ne se déclenche pas.",
+        "source": "Hespress",
+        "url": "http://hespress.com/test1"
+    }
+]
