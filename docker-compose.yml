@@ -20,7 +20,7 @@ x-airflow-common:
     # Définition du chemin racine du projet pour Airflow
     - PROJECT_ROOT=/opt/airflow
   volumes:
-    - ./airflow/dags:/opt/airflow/airflow/dags
+    - ./airflow/dags:/opt/airflow/dags
     - ./data_lake:/opt/airflow/data_lake
     - ./scrapers:/opt/airflow/scrapers
     - ./transformations:/opt/airflow/transformations

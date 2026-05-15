@@ -1,10 +1,10 @@
 {
-    "total_articles": 3,
-    "missing_title_count": 1,
-    "missing_date_count": 1,
-    "short_content_count": 1,
-    "missing_url_count": 1,
-    "missing_source_count": 1,
-    "duplicate_url_count": 1,
-    "global_quality_score": 66.67
+    "total_articles": 35,
+    "missing_title_count": 0,
+    "missing_date_count": 19,
+    "short_content_count": 0,
+    "missing_url_count": 0,
+    "missing_source_count": 0,
+    "duplicate_url_count": 0,
+    "global_quality_score": 90.95
 }

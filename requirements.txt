@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+kafka-python
+streamlit
+plotly
+psycopg2-binary
+sqlalchemy
+python-pptx
+requests
+lxml
